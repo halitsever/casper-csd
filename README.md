@@ -32,8 +32,8 @@ Wifi (Wifi adap\'f6r\'fc ya da LAN ba\uc0\u287 lant\u305 s\u305  i\u351  yapar)\
 ![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **Ses aktif etme**\
 [Rehbere gitmek için tıkla](https://osxinfo.net/konu/voodoohda-2-9-2-guncel-ses-kurulum-paketi.9055/)\
 \
-![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **İsteğe bağlı VRAM yükseltme (8GB ve üstü gerekir)**
+![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **İsteğe bağlı VRAM yükseltme (8GB ve üstü gerekir)**\
 [Rehbere gitmek için tıkla](https://osxinfo.net/konu/high-sierra-icin-intelhd-3000-vram-yukseltme.2138/)
 
-![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **Yardım topluluğu**
+![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **Yardım topluluğu**\
 [osxinfo.net](https://osxinfo.net)
