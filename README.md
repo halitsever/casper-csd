@@ -46,5 +46,6 @@ Mountain Lion\
 Mojave ve üstünü Intel HD 3000 dolayısıyla desteklememekte.
 
 ![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **Oyun testi**\
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bBag7Q-YxFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-GeForce Now ile denenmiştir.
+[Videoya git](https://www.youtube.com/watch?v=bBag7Q-YxFY)\
+![game test](https://i.ibb.co/WW8fzXm/Ekran-Al-nt-s.png)
+
