@@ -39,9 +39,9 @@ Wifi (Wifi adap\'f6r\'fc ya da LAN ba\uc0\u287 lant\u305 s\u305  i\u351  yapar)\
 [osxinfo.net](https://osxinfo.net)
 
 ![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **Desteklenen yazılımlar**\
-High Sierra,
-Sierra,
-El Capitan,
-Mountain Lion
+High Sierra,\
+Sierra,\
+El Capitan,\
+Mountain Lion\
 Mojave ve üstünü Intel HD 3000 dolayısıyla desteklememekte.
 
