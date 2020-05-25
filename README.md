@@ -10,7 +10,7 @@ Ram: *6GB 1600MHz*\
 Ses kartı : *Realtek ALC269*\
 LAN: *Realtek 8111*
 
-![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png) **Hata çözümleri**
+![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png)\ **Hata çözümleri**
 AppleIntelFramebufferCapri.kext ile ilgili bir sorun yaşarsanız boot argümanları kısmına -s komutunu ekleyin ve sistemi başlatın, sonrasında şu komutları tek tek verin:
 fsck -fy\
 mount uw -i /\
