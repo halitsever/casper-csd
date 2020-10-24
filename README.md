@@ -15,7 +15,7 @@ LAN: Realtek 8111<br>
 <br>
 CHY:
 <br>
-İşlemci : I5 3230M
+İşlemci : I5 3230M<br>
 Ses kartı : Realtek ALC269
 
 ![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png)
