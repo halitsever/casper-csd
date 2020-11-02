@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>JMicron36xAHCIEnabler</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.dmazar.driver.JMicron36xAHCIEnabler</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>JMicron36xAHCIEnabler</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>10M2518</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>JMicron36xAHCIEnabler</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.dmazar.driver.JMicron36xAHCIEnabler</string>
+			<key>IOClass</key>
+			<string>com_dmazar_driver_JMicron36xAHCIEnabler</string>
+			<key>IOPCIClassMatch</key>
+			<string>0x01000000&amp;0xff000000</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x2360197b&amp;0xfff0ffff</string>
+			<key>IOProbeScore</key>
+			<integer>1</integer>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+		</dict>
+		<key>Jmicron JMB362 eSATA AHCI</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleAHCIPort</string>
+			<key>Chipset Name</key>
+			<string>JMB36x eSATA AHCI</string>
+			<key>IOClass</key>
+			<string>AppleAHCI</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x2360197b&amp;0xfff0ffff</string>
+			<key>IOProbeScore</key>
+			<integer>12000</integer>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+			<key>Vendor Name</key>
+			<string>JMicron</string>
+		</dict>
+	</dict>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.iokit.IOPCIFamily</key>
+		<string>2.6</string>
+		<key>com.apple.kpi.iokit</key>
+		<string>10.7</string>
+		<key>com.apple.kpi.libkern</key>
+		<string>10.7</string>
+	</dict>
+</dict>
+</plist>
