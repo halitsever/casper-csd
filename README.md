@@ -17,7 +17,10 @@ CHY:
 <br>
 İşlemci : I5 3230M<br>
 Ses kartı : Realtek ALC269
-
+Internet/BT kartı: AR5B195
+Chipset: HM76<br>
+Ram: *6GB 1600MHz<br>
+LAN: Realtek 8111<br>
 ![bilgi](https://i.ibb.co/tKz0q9b/Webp-net-resizeimage-2.png)
 **CKU için Hata çözümleri**\
 AppleIntelFramebufferCapri.kext ile ilgili bir sorun yaşarsanız boot argümanları kısmına -s komutunu ekleyin ve sistemi başlatın, sonrasında şu komutları tek tek verin:
