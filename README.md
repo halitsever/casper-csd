@@ -4,9 +4,9 @@
 Repository contains configuration, kexts, etc for hackintosh on Casper CSD.
 </p>
 <h1>Supported Versions</h1>
-macOS Big Sur<br>
-macOS Catalina<br>
-macOS Mojave<br><br><br><br>
+macOS Big Sur <a href="https://github.com/murathasev/casper-csd/releases/tag/0.6.6">(checkout this release)</a><br>
+macOS Catalina <a href="https://github.com/murathasev/casper-csd/releases/tag/0.6.6">(checkout this release)</a><br>
+macOS Mojave <a href="https://github.com/murathasev/casper-csd/releases/tag/0.6.6">(checkout this release)</a><br><br><br><br>
 <h1>Specs</h1>
 <img align="left" width="250" height="250" src="https://i.ibb.co/kmBvSdn/casper.png">
 <b>GPU:</b> integrated Intel HD Graphics 4600<br>
