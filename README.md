@@ -10,6 +10,8 @@ macOS Mojave <a href="https://github.com/murathasev/casper-csd/releases/tag/0.6.
 <h1>Specs</h1>
 <img align="left" width="250" height="250" src="https://i.ibb.co/kmBvSdn/casper.png">
 <b>GPU:</b> integrated Intel HD Graphics 4600<br>
+<b>RAM:</b> 8 GB<br>
+<b>Processor:</b>i5-4210M<br>
 <b>Chipset</b> Intel 8 Series<br>
 <b>BIOS:</b> C15B (ver. 617)
 <h1>Installation</h1>
