@@ -12,11 +12,14 @@ macOS Mojave <a href="https://github.com/murathasev/casper-csd/releases/tag/0.6.
 <b>GPU:</b> integrated Intel HD Graphics 4600<br>
 <b>RAM:</b> 8 GB<br>
 <b>Processor:</b>i5-4210M<br>
-<b>Chipset</b> Intel 8 Series<br>
+<b>Chipset:</b> Intel 8 Series<br>
+<b>EFI:</b> OpenCore<br>
 <b>BIOS:</b> C15B (ver. 617)
 <h1>Installation</h1>
 <b>Notice:</b> you have to generate your own SMBIOS/SerialNumber, SMBIOS/BoardSerialNumber and SMBIOS/SmUUID.
 
 You can either install your hackintosh all by yourself or you can use my EFI folders to install and run the hackintosh.
 If your device have i7 or i3 processor you need create diffrent CpuFriendProvider.kext with <a href="https://github.com/fewtarius/CPUFriendFriend">CpuFriendFriend</a> tool.
+<h1>Kexts</h1>
+...kext info here...
 
