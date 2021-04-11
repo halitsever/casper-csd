@@ -21,5 +21,32 @@ macOS Mojave <a href="https://github.com/murathasev/casper-csd/releases/tag/0.6.
 You can either install your hackintosh all by yourself or you can use my EFI folders to install and run the hackintosh.
 If your device have i7 or i3 processor you need create diffrent CpuFriendProvider.kext with <a href="https://github.com/fewtarius/CPUFriendFriend">CpuFriendFriend</a> tool.
 <h1>Kexts</h1>
-...kext info here...
-
+ACPIBatteryManager.kext 
+<br>
+AirPortAtheros40.kext 
+<br>
+AppleALC.kext 
+<br>
+AtherosWiFiInjector.kext 
+<br>
+CPUFriend.kext
+<br>
+CPUFriendDataProvider.kext
+<br>
+HS80211Family.kext 
+<br>
+Lilu.kext 
+<br>
+RTCMemoryFixup.kext
+<br>
+RealtekRTL8111.kext 
+<br>
+USBMap.kext 
+<br>
+VirtualSMC.kext 
+<br>
+VoodooI2CSynaptics.kext 
+<br>
+VoodooPS2Controller.kext 
+<br>
+WhateverGreen.kext 
